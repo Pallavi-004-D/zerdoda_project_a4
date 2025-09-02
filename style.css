@@ -1,0 +1,8 @@
+.landing{
+    height: 500px;
+    width: 850px;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+}
